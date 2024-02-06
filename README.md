@@ -4,7 +4,7 @@
 
 Full-Stack Engineer at [Techplain](https://www.techplain.io);<br>
 
-- ⚙️ I use daily: `.go`, `.js`, `.html`, `.css`, `.vue`, `.py`, `.ai`
+- ⚙️ I use daily: `.go`, `.js` `.html` `.css` `.vue` `.py` `.ai`
 - 🌍 I'm mostly active within the **Vuejs Community**
 - 💅 Developed: @hazini, [Hazini](https://www.hazini.com), [Helasend](https://helasend.com), [Odileague](https://odibets.com/odileague), etc…
 - 💬 `ping` me about **Go**, **Vuejs**, **Javascript**, **Redis**, **Python**
