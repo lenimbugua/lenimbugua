@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Leonard Mbugu</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+### Hello there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenimbugua&label=Profile%20views&color=0e75b6&style=flat" alt="lenimbugua" /> </p>
+#### A Full-Stack Engineer by day ☼ and a Vuejs Community Contributor by night ☾
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lenimbugua" alt="lenimbugua" /></a> </p>
+Full-Stack Engineer at [Techplain](https://www.techplain.io);<br>
 
-<p align="left"> <a href="https://twitter.com/lenimbugua" target="blank"><img src="https://img.shields.io/twitter/follow/lenimbugua?logo=twitter&style=for-the-badge" alt="lenimbugua" /></a> </p>
+- ⚙️ I use daily: `.go`, `.js`, `.html`, `.css`, `.vue, `.py`, `.ai`
+- 🌍 I'm mostly active within the **Vuejs Community**
+- 💅 Developed: @hazini, [Hazini](https://www.hazini.com), [Helasend](https://helasend.com), [Odileague](https://odibets.com/odileague), etc…
+- 💬 `ping` me about **Go**, **Vuejs**, **Javascript**, **Redis**, **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
